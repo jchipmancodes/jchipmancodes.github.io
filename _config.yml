@@ -1,17 +1,17 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 https://lanyon.getpoole.com
+title:               J. Chipman Codes
+tagline:             'Returning to my roots'
+description:         'A blog/portfolio where I talk about getting back into the dev game.'
+url:                 https://jchipmancodes.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              James Chipman
+#  url:               https://twitter.com/mdo
+  email:             james.chipman@gmail.com
 
 # Gems
 plugins:
