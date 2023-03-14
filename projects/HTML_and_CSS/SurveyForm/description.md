@@ -1,0 +1,3 @@
+A survey form project will test your knowledge and proficiency in interactive controls. It covers the full range of UI/UX, including receiving and submitting user input. Furthermore, you will use HTML elements like radio buttons, text fields, checkboxes, and labels in this project.
+
+Your survey form does not need to ask real-life questions or store responses in a database. Instead, you can use placeholder text to demonstrate your command of proper webpage structure. Furthermore, you can make a responsive form that adjusts its contents based on screen size.
