@@ -3,3 +3,18 @@
     width: 50%;
     text-align: center;
 }
+
+.quote {
+    float: left;
+    text-align: left;
+    width: 50%;
+    border: 2px solid grey;
+}
+
+.portrait {
+    display: inline-block;
+    float: right;
+    text-align: right;
+    width: auto;
+    border: 2px solid grey;
+}
