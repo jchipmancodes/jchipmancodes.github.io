@@ -5,8 +5,6 @@ date:   2023-03-31 05:02:56 -0700
 categories: introduction rambling
 ---
 
-# Can an old dog learn new tricks?
-
 After a few weeks poking around in the Odin Project, I feel like I've gotten up to speed in the world of HTML and CSS. It's markup language, not much has changed over the years. A quick Google search brings up HTML 5.0 being released in 2008, just a few years after I got out of coding, and CSS 3.0... well, that was originally released in 1999.
 
 JavaScript may be a problem. Never touched it, as I didn't have any server space that would allow me to run scripting languages. I did C++ and Java back in college, so I have the fundamentals of OOP down, just not the syntax. Just screwing around with it though, I could solve FizzBuzz no problem.
