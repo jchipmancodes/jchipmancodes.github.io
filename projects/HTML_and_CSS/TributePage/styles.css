@@ -1,20 +1,28 @@
-.center {
-    margin: auto;
-    width: 50%;
+body {
+    background-color: antiquewhite;
+    color: black;
+}
+
+.intro {
+    margin: 0 10% 0 10%;
+    width: 80%;
     text-align: center;
 }
 
 .quote {
+    padding: 7% 0 7% 0;
     float: left;
-    text-align: left;
-    width: 50%;
-    border: 2px solid grey;
+    text-align: justify;
+    width: 40%;
 }
 
 .portrait {
     display: inline-block;
-    float: right;
-    text-align: right;
-    width: auto;
-    border: 2px solid grey;
+    /*float: right;*/
+    width: 40%;
+
+}
+
+.bio {
+    padding: 5% 20%;
 }
