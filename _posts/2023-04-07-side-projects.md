@@ -2,7 +2,7 @@
 layout: post
 title:  "Side projects, bad hacking, and getting dirty"
 date:   2023-04-07 05:02:56 -0700
-categories: "side projects" hacking
+categories: hacking
 ---
 
 One of the things about taking classes is that you have to practice the trade in order to fully understand what you're learning. It's not just coding, specifically, but anything you want to learn. "How do you get to Carnegie Hall? Practice, practice, practice."
